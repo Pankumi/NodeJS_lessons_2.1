@@ -1,0 +1,23 @@
+{
+  "name": "node_js_lessons2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pankumi/Node_JS_lessons2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pankumi/Node_JS_lessons2/issues"
+  },
+  "homepage": "https://github.com/Pankumi/Node_JS_lessons2#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
